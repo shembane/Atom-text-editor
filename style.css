@@ -1,0 +1,14 @@
+.p1 {
+  font-size: 3rem;
+  text-align: center;
+  color: red;
+  border-bottom: solid;
+  border-color: blue;
+  padding-bottom: 10px;
+}
+
+.w3c {
+  text-align: center;
+  font-size: 1.5rem;
+}
+/*this is a comment*/
